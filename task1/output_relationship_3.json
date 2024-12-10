@@ -1,0 +1,702 @@
+[
+    {
+        "name": "Кошара 56",
+        "city": "Хихон",
+        "prob_price": 868787371,
+        "rating": 4.3,
+        "total_score": 15
+    },
+    {
+        "name": "Сеть 14",
+        "city": "Варшава",
+        "prob_price": 744913651,
+        "rating": 4.7,
+        "total_score": 14
+    },
+    {
+        "name": "Кошара 56",
+        "city": "Хихон",
+        "prob_price": 868787371,
+        "rating": 4.6,
+        "total_score": 14
+    },
+    {
+        "name": "Гнездо 30",
+        "city": "Касерес",
+        "prob_price": 550666298,
+        "rating": 4.9,
+        "total_score": 14
+    },
+    {
+        "name": "Церковь 34",
+        "city": "Эль-Пуэрто-де-Санта-Мария",
+        "prob_price": 701515967,
+        "rating": 4.8,
+        "total_score": 14
+    },
+    {
+        "name": "Университет 49",
+        "city": "Вроцлав",
+        "prob_price": 597711263,
+        "rating": 4.1,
+        "total_score": 14
+    },
+    {
+        "name": "Особняк 8",
+        "city": "Мадрид",
+        "prob_price": 584867860,
+        "rating": 4.3,
+        "total_score": 14
+    },
+    {
+        "name": "Кошара 92",
+        "city": "Душанбе",
+        "prob_price": 801622128,
+        "rating": 4.7,
+        "total_score": 14
+    },
+    {
+        "name": "Церковь 67",
+        "city": "Барселона",
+        "prob_price": 866147881,
+        "rating": 4.7,
+        "total_score": 13
+    },
+    {
+        "name": "Церковь 67",
+        "city": "Барселона",
+        "prob_price": 866147881,
+        "rating": 5.0,
+        "total_score": 13
+    },
+    {
+        "name": "Бункер 76",
+        "city": "Бургос",
+        "prob_price": 707238258,
+        "rating": 4.6,
+        "total_score": 13
+    },
+    {
+        "name": "Школа 85",
+        "city": "Эль-Пуэрто-де-Санта-Мария",
+        "prob_price": 999932115,
+        "rating": 4.8,
+        "total_score": 13
+    },
+    {
+        "name": "Сеть 14",
+        "city": "Варшава",
+        "prob_price": 744913651,
+        "rating": 4.4,
+        "total_score": 13
+    },
+    {
+        "name": "Гараж 26",
+        "city": "Краков",
+        "prob_price": 644535086,
+        "rating": 4.8,
+        "total_score": 13
+    },
+    {
+        "name": "Виадук 16",
+        "city": "Алма-Ата",
+        "prob_price": 835185303,
+        "rating": 4.4,
+        "total_score": 13
+    },
+    {
+        "name": "Кошара 56",
+        "city": "Хихон",
+        "prob_price": 868787371,
+        "rating": 4.6,
+        "total_score": 13
+    },
+    {
+        "name": "Кошара 56",
+        "city": "Хихон",
+        "prob_price": 868787371,
+        "rating": 5.0,
+        "total_score": 13
+    },
+    {
+        "name": "Гнездо 30",
+        "city": "Касерес",
+        "prob_price": 550666298,
+        "rating": 4.9,
+        "total_score": 13
+    },
+    {
+        "name": "Церковь 34",
+        "city": "Эль-Пуэрто-де-Санта-Мария",
+        "prob_price": 701515967,
+        "rating": 4.1,
+        "total_score": 13
+    },
+    {
+        "name": "Парк 1",
+        "city": "Авилес",
+        "prob_price": 678760498,
+        "rating": 4.8,
+        "total_score": 13
+    },
+    {
+        "name": "Башня 99",
+        "city": "Аликанте",
+        "prob_price": 762466055,
+        "rating": 4.3,
+        "total_score": 13
+    },
+    {
+        "name": "Свиноферма 27",
+        "city": "Лас-Росас",
+        "prob_price": 859442452,
+        "rating": 4.2,
+        "total_score": 13
+    },
+    {
+        "name": "Церковь 67",
+        "city": "Барселона",
+        "prob_price": 866147881,
+        "rating": 4.5,
+        "total_score": 12
+    },
+    {
+        "name": "Плантация 22",
+        "city": "Варшава",
+        "prob_price": 987591401,
+        "rating": 4.4,
+        "total_score": 12
+    },
+    {
+        "name": "Причал 90",
+        "city": "Сараево",
+        "prob_price": 739998334,
+        "rating": 4.7,
+        "total_score": 12
+    },
+    {
+        "name": "Школа 85",
+        "city": "Эль-Пуэрто-де-Санта-Мария",
+        "prob_price": 999932115,
+        "rating": 4.6,
+        "total_score": 12
+    },
+    {
+        "name": "Школа 85",
+        "city": "Эль-Пуэрто-де-Санта-Мария",
+        "prob_price": 999932115,
+        "rating": 4.8,
+        "total_score": 12
+    },
+    {
+        "name": "Школа 85",
+        "city": "Эль-Пуэрто-де-Санта-Мария",
+        "prob_price": 999932115,
+        "rating": 4.9,
+        "total_score": 12
+    },
+    {
+        "name": "Бомбоубежище 80",
+        "city": "Ла-Корунья",
+        "prob_price": 560120000,
+        "rating": 4.1,
+        "total_score": 12
+    },
+    {
+        "name": "Бомбоубежище 80",
+        "city": "Ла-Корунья",
+        "prob_price": 560120000,
+        "rating": 4.7,
+        "total_score": 12
+    },
+    {
+        "name": "Кинотеатр 14",
+        "city": "Бланес",
+        "prob_price": 518967759,
+        "rating": 4.9,
+        "total_score": 12
+    },
+    {
+        "name": "Кинотеатр 14",
+        "city": "Бланес",
+        "prob_price": 518967759,
+        "rating": 5.0,
+        "total_score": 12
+    },
+    {
+        "name": "Кинотеатр 14",
+        "city": "Бланес",
+        "prob_price": 518967759,
+        "rating": 5.0,
+        "total_score": 12
+    },
+    {
+        "name": "Сеть 14",
+        "city": "Варшава",
+        "prob_price": 744913651,
+        "rating": 4.4,
+        "total_score": 12
+    },
+    {
+        "name": "Виадук 16",
+        "city": "Алма-Ата",
+        "prob_price": 835185303,
+        "rating": 4.7,
+        "total_score": 12
+    },
+    {
+        "name": "Виадук 16",
+        "city": "Алма-Ата",
+        "prob_price": 835185303,
+        "rating": 4.8,
+        "total_score": 12
+    },
+    {
+        "name": "Крольчатник 100",
+        "city": "Рига",
+        "prob_price": 682749038,
+        "rating": 4.7,
+        "total_score": 12
+    },
+    {
+        "name": "Кошара 56",
+        "city": "Хихон",
+        "prob_price": 868787371,
+        "rating": 4.8,
+        "total_score": 12
+    },
+    {
+        "name": "Кошара 56",
+        "city": "Хихон",
+        "prob_price": 868787371,
+        "rating": 5.0,
+        "total_score": 12
+    },
+    {
+        "name": "Гнездо 30",
+        "city": "Касерес",
+        "prob_price": 550666298,
+        "rating": 4.6,
+        "total_score": 12
+    },
+    {
+        "name": "Парк 1",
+        "city": "Авилес",
+        "prob_price": 678760498,
+        "rating": 4.2,
+        "total_score": 12
+    },
+    {
+        "name": "Университет 49",
+        "city": "Вроцлав",
+        "prob_price": 597711263,
+        "rating": 4.9,
+        "total_score": 12
+    },
+    {
+        "name": "Башня 99",
+        "city": "Аликанте",
+        "prob_price": 762466055,
+        "rating": 4.1,
+        "total_score": 12
+    },
+    {
+        "name": "Башня 99",
+        "city": "Аликанте",
+        "prob_price": 762466055,
+        "rating": 5.0,
+        "total_score": 12
+    },
+    {
+        "name": "Кошара 64",
+        "city": "Астана",
+        "prob_price": 548752393,
+        "rating": 4.5,
+        "total_score": 12
+    },
+    {
+        "name": "Автомойка 12",
+        "city": "Алькала-де-Энарес",
+        "prob_price": 823473395,
+        "rating": 5.0,
+        "total_score": 12
+    },
+    {
+        "name": "Автомойка 12",
+        "city": "Алькала-де-Энарес",
+        "prob_price": 823473395,
+        "rating": 5.0,
+        "total_score": 12
+    },
+    {
+        "name": "Свиноферма 27",
+        "city": "Лас-Росас",
+        "prob_price": 859442452,
+        "rating": 4.7,
+        "total_score": 12
+    },
+    {
+        "name": "Церковь 67",
+        "city": "Барселона",
+        "prob_price": 866147881,
+        "rating": 4.1,
+        "total_score": 11
+    },
+    {
+        "name": "Церковь 67",
+        "city": "Барселона",
+        "prob_price": 866147881,
+        "rating": 4.3,
+        "total_score": 11
+    },
+    {
+        "name": "Церковь 67",
+        "city": "Барселона",
+        "prob_price": 866147881,
+        "rating": 4.5,
+        "total_score": 11
+    },
+    {
+        "name": "Плантация 22",
+        "city": "Варшава",
+        "prob_price": 987591401,
+        "rating": 4.3,
+        "total_score": 11
+    },
+    {
+        "name": "Бункер 76",
+        "city": "Бургос",
+        "prob_price": 707238258,
+        "rating": 4.1,
+        "total_score": 11
+    },
+    {
+        "name": "Бункер 76",
+        "city": "Бургос",
+        "prob_price": 707238258,
+        "rating": 4.1,
+        "total_score": 11
+    },
+    {
+        "name": "Бункер 76",
+        "city": "Бургос",
+        "prob_price": 707238258,
+        "rating": 4.2,
+        "total_score": 11
+    },
+    {
+        "name": "Бункер 76",
+        "city": "Бургос",
+        "prob_price": 707238258,
+        "rating": 4.7,
+        "total_score": 11
+    },
+    {
+        "name": "Бункер 76",
+        "city": "Бургос",
+        "prob_price": 707238258,
+        "rating": 4.7,
+        "total_score": 11
+    },
+    {
+        "name": "Бункер 76",
+        "city": "Бургос",
+        "prob_price": 707238258,
+        "rating": 4.9,
+        "total_score": 11
+    },
+    {
+        "name": "Бункер 76",
+        "city": "Бургос",
+        "prob_price": 707238258,
+        "rating": 4.9,
+        "total_score": 11
+    },
+    {
+        "name": "Школа 85",
+        "city": "Эль-Пуэрто-де-Санта-Мария",
+        "prob_price": 999932115,
+        "rating": 4.1,
+        "total_score": 11
+    },
+    {
+        "name": "Школа 85",
+        "city": "Эль-Пуэрто-де-Санта-Мария",
+        "prob_price": 999932115,
+        "rating": 4.6,
+        "total_score": 11
+    },
+    {
+        "name": "Школа 85",
+        "city": "Эль-Пуэрто-де-Санта-Мария",
+        "prob_price": 999932115,
+        "rating": 4.6,
+        "total_score": 11
+    },
+    {
+        "name": "Кинотеатр 14",
+        "city": "Бланес",
+        "prob_price": 518967759,
+        "rating": 4.2,
+        "total_score": 11
+    },
+    {
+        "name": "Кинотеатр 14",
+        "city": "Бланес",
+        "prob_price": 518967759,
+        "rating": 5.0,
+        "total_score": 11
+    },
+    {
+        "name": "Сеть 14",
+        "city": "Варшава",
+        "prob_price": 744913651,
+        "rating": 4.3,
+        "total_score": 11
+    },
+    {
+        "name": "Сеть 14",
+        "city": "Варшава",
+        "prob_price": 744913651,
+        "rating": 4.6,
+        "total_score": 11
+    },
+    {
+        "name": "Сеть 14",
+        "city": "Варшава",
+        "prob_price": 744913651,
+        "rating": 4.6,
+        "total_score": 11
+    },
+    {
+        "name": "Сеть 14",
+        "city": "Варшава",
+        "prob_price": 744913651,
+        "rating": 4.7,
+        "total_score": 11
+    },
+    {
+        "name": "Сеть 14",
+        "city": "Варшава",
+        "prob_price": 744913651,
+        "rating": 4.7,
+        "total_score": 11
+    },
+    {
+        "name": "Плантация 76",
+        "city": "Таллин",
+        "prob_price": 853742872,
+        "rating": 4.1,
+        "total_score": 11
+    },
+    {
+        "name": "Плантация 76",
+        "city": "Таллин",
+        "prob_price": 853742872,
+        "rating": 4.2,
+        "total_score": 11
+    },
+    {
+        "name": "Плантация 76",
+        "city": "Таллин",
+        "prob_price": 853742872,
+        "rating": 4.7,
+        "total_score": 11
+    },
+    {
+        "name": "Дворец 9",
+        "city": "Кадакес",
+        "prob_price": 846575736,
+        "rating": 4.1,
+        "total_score": 11
+    },
+    {
+        "name": "Дворец 9",
+        "city": "Кадакес",
+        "prob_price": 846575736,
+        "rating": 4.3,
+        "total_score": 11
+    },
+    {
+        "name": "Завод 94",
+        "city": "Тирана",
+        "prob_price": 738501093,
+        "rating": 5.0,
+        "total_score": 11
+    },
+    {
+        "name": "Осатаник 59",
+        "city": "Санхенхо",
+        "prob_price": 980225640,
+        "rating": 4.7,
+        "total_score": 11
+    },
+    {
+        "name": "Порт 13",
+        "city": "Мерида",
+        "prob_price": 854223483,
+        "rating": 4.2,
+        "total_score": 11
+    },
+    {
+        "name": "Кошара 56",
+        "city": "Хихон",
+        "prob_price": 868787371,
+        "rating": 4.4,
+        "total_score": 11
+    },
+    {
+        "name": "Кошара 56",
+        "city": "Хихон",
+        "prob_price": 868787371,
+        "rating": 4.6,
+        "total_score": 11
+    },
+    {
+        "name": "Гнездо 30",
+        "city": "Касерес",
+        "prob_price": 550666298,
+        "rating": 4.8,
+        "total_score": 11
+    },
+    {
+        "name": "Гнездо 30",
+        "city": "Касерес",
+        "prob_price": 550666298,
+        "rating": 4.9,
+        "total_score": 11
+    },
+    {
+        "name": "Гнездо 30",
+        "city": "Касерес",
+        "prob_price": 550666298,
+        "rating": 4.9,
+        "total_score": 11
+    },
+    {
+        "name": " Вилла 31",
+        "city": "Сараево",
+        "prob_price": 697585395,
+        "rating": 4.8,
+        "total_score": 11
+    },
+    {
+        "name": " Вилла 31",
+        "city": "Сараево",
+        "prob_price": 697585395,
+        "rating": 5.0,
+        "total_score": 11
+    },
+    {
+        "name": "Башня 99",
+        "city": "Аликанте",
+        "prob_price": 762466055,
+        "rating": 4.1,
+        "total_score": 11
+    },
+    {
+        "name": "Театр 35",
+        "city": "Прага",
+        "prob_price": 869518352,
+        "rating": 4.2,
+        "total_score": 11
+    },
+    {
+        "name": "Театр 35",
+        "city": "Прага",
+        "prob_price": 869518352,
+        "rating": 4.3,
+        "total_score": 11
+    },
+    {
+        "name": "Театр 35",
+        "city": "Прага",
+        "prob_price": 869518352,
+        "rating": 4.6,
+        "total_score": 11
+    },
+    {
+        "name": "Кошара 64",
+        "city": "Астана",
+        "prob_price": 548752393,
+        "rating": 4.2,
+        "total_score": 11
+    },
+    {
+        "name": "Кошара 64",
+        "city": "Астана",
+        "prob_price": 548752393,
+        "rating": 4.8,
+        "total_score": 11
+    },
+    {
+        "name": "Особняк 8",
+        "city": "Мадрид",
+        "prob_price": 584867860,
+        "rating": 4.8,
+        "total_score": 11
+    },
+    {
+        "name": "Особняк 8",
+        "city": "Мадрид",
+        "prob_price": 584867860,
+        "rating": 4.9,
+        "total_score": 11
+    },
+    {
+        "name": "Автомойка 12",
+        "city": "Алькала-де-Энарес",
+        "prob_price": 823473395,
+        "rating": 4.9,
+        "total_score": 11
+    },
+    {
+        "name": "Кошара 92",
+        "city": "Душанбе",
+        "prob_price": 801622128,
+        "rating": 4.3,
+        "total_score": 11
+    },
+    {
+        "name": "Кошара 92",
+        "city": "Душанбе",
+        "prob_price": 801622128,
+        "rating": 4.7,
+        "total_score": 11
+    },
+    {
+        "name": "Кошара 92",
+        "city": "Душанбе",
+        "prob_price": 801622128,
+        "rating": 5.0,
+        "total_score": 11
+    },
+    {
+        "name": "Свиноферма 27",
+        "city": "Лас-Росас",
+        "prob_price": 859442452,
+        "rating": 4.9,
+        "total_score": 11
+    },
+    {
+        "name": "Церковь 67",
+        "city": "Барселона",
+        "prob_price": 866147881,
+        "rating": 4.2,
+        "total_score": 10
+    },
+    {
+        "name": "Церковь 67",
+        "city": "Барселона",
+        "prob_price": 866147881,
+        "rating": 4.4,
+        "total_score": 10
+    },
+    {
+        "name": "Церковь 67",
+        "city": "Барселона",
+        "prob_price": 866147881,
+        "rating": 4.5,
+        "total_score": 10
+    }
+]

@@ -1,0 +1,310 @@
+[
+    {
+        "city": "Будапешт",
+        "total_items": 44,
+        "avg_rating": 2.9318181818181817,
+        "avg_price": 320532861.0,
+        "avg_security": 3.0681818181818183
+    },
+    {
+        "city": "Мадрид",
+        "total_items": 66,
+        "avg_rating": 2.890909090909091,
+        "avg_price": 584867860.0,
+        "avg_security": 3.015151515151515
+    },
+    {
+        "city": "Севилья",
+        "total_items": 75,
+        "avg_rating": 2.82,
+        "avg_price": 486618222.0,
+        "avg_security": 2.96
+    },
+    {
+        "city": "Астана",
+        "total_items": 45,
+        "avg_rating": 2.8155555555555556,
+        "avg_price": 548752393.0,
+        "avg_security": 3.2
+    },
+    {
+        "city": "Алма-Ата",
+        "total_items": 59,
+        "avg_rating": 2.7559322033898304,
+        "avg_price": 835185303.0,
+        "avg_security": 2.7796610169491527
+    },
+    {
+        "city": "Вильнюс",
+        "total_items": 45,
+        "avg_rating": 2.697777777777778,
+        "avg_price": 48636714.0,
+        "avg_security": 3.066666666666667
+    },
+    {
+        "city": "Алькала-де-Энарес",
+        "total_items": 71,
+        "avg_rating": 2.684507042253521,
+        "avg_price": 823473395.0,
+        "avg_security": 2.9295774647887325
+    },
+    {
+        "city": "Касерес",
+        "total_items": 90,
+        "avg_rating": 2.6799999999999997,
+        "avg_price": 443006294.26666665,
+        "avg_security": 3.066666666666667
+    },
+    {
+        "city": "Санкт-Петербург",
+        "total_items": 63,
+        "avg_rating": 2.6698412698412697,
+        "avg_price": 222516543.0,
+        "avg_security": 3.0634920634920637
+    },
+    {
+        "city": "Душанбе",
+        "total_items": 103,
+        "avg_rating": 2.668932038834951,
+        "avg_price": 801622128.0,
+        "avg_security": 2.9029126213592233
+    },
+    {
+        "city": "Прага",
+        "total_items": 44,
+        "avg_rating": 2.665909090909091,
+        "avg_price": 869518352.0,
+        "avg_security": 3.2954545454545454
+    },
+    {
+        "city": "Хихон",
+        "total_items": 98,
+        "avg_rating": 2.6357142857142857,
+        "avg_price": 868787371.0,
+        "avg_security": 3.2653061224489797
+    },
+    {
+        "city": "Аликанте",
+        "total_items": 175,
+        "avg_rating": 2.604,
+        "avg_price": 595618108.2114285,
+        "avg_security": 2.942857142857143
+    },
+    {
+        "city": "Гранада",
+        "total_items": 52,
+        "avg_rating": 2.5846153846153848,
+        "avg_price": 228246611.0,
+        "avg_security": 3.019230769230769
+    },
+    {
+        "city": "Авилес",
+        "total_items": 154,
+        "avg_rating": 2.57987012987013,
+        "avg_price": 561578246.7467532,
+        "avg_security": 2.9935064935064934
+    },
+    {
+        "city": "Овьедо",
+        "total_items": 65,
+        "avg_rating": 2.5692307692307694,
+        "avg_price": 281078981.0,
+        "avg_security": 3.123076923076923
+    },
+    {
+        "city": "Ла-Корунья",
+        "total_items": 176,
+        "avg_rating": 2.567613636363636,
+        "avg_price": 326542286.09090906,
+        "avg_security": 3.0170454545454546
+    },
+    {
+        "city": "Сараево",
+        "total_items": 186,
+        "avg_rating": 2.5650537634408606,
+        "avg_price": 611684999.9784946,
+        "avg_security": 3.150537634408602
+    },
+    {
+        "city": "Эль-Пуэрто-де-Санта-Мария",
+        "total_items": 217,
+        "avg_rating": 2.561290322580645,
+        "avg_price": 660791395.732719,
+        "avg_security": 2.9078341013824884
+    },
+    {
+        "city": "Бургос",
+        "total_items": 89,
+        "avg_rating": 2.549438202247191,
+        "avg_price": 707238258.0,
+        "avg_security": 3.056179775280899
+    },
+    {
+        "city": "Кадакес",
+        "total_items": 64,
+        "avg_rating": 2.540625,
+        "avg_price": 846575736.0,
+        "avg_security": 2.875
+    },
+    {
+        "city": "Валенсия",
+        "total_items": 168,
+        "avg_rating": 2.532142857142857,
+        "avg_price": 228491273.39880952,
+        "avg_security": 3.0297619047619047
+    },
+    {
+        "city": "Виго",
+        "total_items": 60,
+        "avg_rating": 2.521666666666667,
+        "avg_price": 176227522.0,
+        "avg_security": 3.183333333333333
+    },
+    {
+        "city": "Семана",
+        "total_items": 96,
+        "avg_rating": 2.513541666666667,
+        "avg_price": 246751665.0,
+        "avg_security": 3.2083333333333335
+    },
+    {
+        "city": "Барселона",
+        "total_items": 96,
+        "avg_rating": 2.513541666666667,
+        "avg_price": 866147881.0,
+        "avg_security": 3.2083333333333335
+    },
+    {
+        "city": "Куэнка",
+        "total_items": 328,
+        "avg_rating": 2.510670731707317,
+        "avg_price": 279721912.95731705,
+        "avg_security": 3.0
+    },
+    {
+        "city": "Фигерас",
+        "total_items": 59,
+        "avg_rating": 2.506779661016949,
+        "avg_price": 392480650.0,
+        "avg_security": 2.7457627118644066
+    },
+    {
+        "city": "Варшава",
+        "total_items": 217,
+        "avg_rating": 2.4976958525345623,
+        "avg_price": 685796144.6774193,
+        "avg_security": 3.0829493087557602
+    },
+    {
+        "city": "Лас-Росас",
+        "total_items": 72,
+        "avg_rating": 2.4875,
+        "avg_price": 859442452.0,
+        "avg_security": 2.9444444444444446
+    },
+    {
+        "city": "Мурсия",
+        "total_items": 66,
+        "avg_rating": 2.4863636363636363,
+        "avg_price": 328676412.0,
+        "avg_security": 3.015151515151515
+    },
+    {
+        "city": "Рига",
+        "total_items": 52,
+        "avg_rating": 2.4711538461538463,
+        "avg_price": 682749038.0,
+        "avg_security": 2.9615384615384617
+    },
+    {
+        "city": "Мерида",
+        "total_items": 66,
+        "avg_rating": 2.4484848484848483,
+        "avg_price": 854223483.0,
+        "avg_security": 2.878787878787879
+    },
+    {
+        "city": "Бланес",
+        "total_items": 124,
+        "avg_rating": 2.4475806451612905,
+        "avg_price": 318555377.08064514,
+        "avg_security": 3.096774193548387
+    },
+    {
+        "city": "Льейда",
+        "total_items": 99,
+        "avg_rating": 2.4464646464646465,
+        "avg_price": 214961064.0,
+        "avg_security": 2.8383838383838382
+    },
+    {
+        "city": "Махадаонда",
+        "total_items": 76,
+        "avg_rating": 2.4368421052631577,
+        "avg_price": 137887303.0,
+        "avg_security": 3.210526315789474
+    },
+    {
+        "city": "Бильбао",
+        "total_items": 53,
+        "avg_rating": 2.4207547169811323,
+        "avg_price": 121729229.0,
+        "avg_security": 3.0754716981132075
+    },
+    {
+        "city": "Артейхо",
+        "total_items": 67,
+        "avg_rating": 2.41044776119403,
+        "avg_price": 43679577.0,
+        "avg_security": 2.985074626865672
+    },
+    {
+        "city": "Сантьяго-де-Компостела",
+        "total_items": 45,
+        "avg_rating": 2.402222222222222,
+        "avg_price": 268185133.0,
+        "avg_security": 3.2
+    },
+    {
+        "city": "Таллин",
+        "total_items": 96,
+        "avg_rating": 2.3781250000000003,
+        "avg_price": 853742872.0,
+        "avg_security": 2.9375
+    },
+    {
+        "city": "Ереван",
+        "total_items": 62,
+        "avg_rating": 2.3741935483870966,
+        "avg_price": 415618307.0,
+        "avg_security": 2.7903225806451615
+    },
+    {
+        "city": "Краков",
+        "total_items": 61,
+        "avg_rating": 2.355737704918033,
+        "avg_price": 644535086.0,
+        "avg_security": 3.0327868852459017
+    },
+    {
+        "city": "Санхенхо",
+        "total_items": 46,
+        "avg_rating": 2.347826086956522,
+        "avg_price": 980225640.0,
+        "avg_security": 3.347826086956522
+    },
+    {
+        "city": "Тирана",
+        "total_items": 46,
+        "avg_rating": 2.317391304347826,
+        "avg_price": 738501093.0,
+        "avg_security": 3.0434782608695654
+    },
+    {
+        "city": "Вроцлав",
+        "total_items": 91,
+        "avg_rating": 2.0318681318681318,
+        "avg_price": 597711263.0,
+        "avg_security": 2.978021978021978
+    }
+]

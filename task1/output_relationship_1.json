@@ -1,0 +1,902 @@
+[
+    {
+        "id": 112697,
+        "name": "Церковь 67",
+        "city": "Барселона",
+        "prob_price": 866147881,
+        "rating": 5.0,
+        "convenience": 5,
+        "security": 5
+    },
+    {
+        "id": 121847,
+        "name": "Склад 50",
+        "city": "Махадаонда",
+        "prob_price": 137887303,
+        "rating": 5.0,
+        "convenience": 4,
+        "security": 1
+    },
+    {
+        "id": 121847,
+        "name": "Склад 50",
+        "city": "Махадаонда",
+        "prob_price": 137887303,
+        "rating": 5.0,
+        "convenience": 4,
+        "security": 5
+    },
+    {
+        "id": 142765,
+        "name": "Причал 90",
+        "city": "Сараево",
+        "prob_price": 739998334,
+        "rating": 5.0,
+        "convenience": 1,
+        "security": 3
+    },
+    {
+        "id": 178323,
+        "name": "Йодль 80",
+        "city": "Фигерас",
+        "prob_price": 392480650,
+        "rating": 5.0,
+        "convenience": 5,
+        "security": 3
+    },
+    {
+        "id": 179267,
+        "name": "Йодль 4",
+        "city": "Сараево",
+        "prob_price": 378984879,
+        "rating": 5.0,
+        "convenience": 1,
+        "security": 5
+    },
+    {
+        "id": 179267,
+        "name": "Йодль 4",
+        "city": "Сараево",
+        "prob_price": 378984879,
+        "rating": 5.0,
+        "convenience": 2,
+        "security": 1
+    },
+    {
+        "id": 181723,
+        "name": "Термитник 59",
+        "city": "Куэнка",
+        "prob_price": 474597293,
+        "rating": 5.0,
+        "convenience": 2,
+        "security": 4
+    },
+    {
+        "id": 181723,
+        "name": "Термитник 59",
+        "city": "Куэнка",
+        "prob_price": 474597293,
+        "rating": 5.0,
+        "convenience": 2,
+        "security": 5
+    },
+    {
+        "id": 199969,
+        "name": "Институт 27",
+        "city": "Будапешт",
+        "prob_price": 320532861,
+        "rating": 5.0,
+        "convenience": 4,
+        "security": 3
+    },
+    {
+        "id": 208684,
+        "name": "Замок 90",
+        "city": "Ереван",
+        "prob_price": 415618307,
+        "rating": 5.0,
+        "convenience": 2,
+        "security": 1
+    },
+    {
+        "id": 208684,
+        "name": "Замок 90",
+        "city": "Ереван",
+        "prob_price": 415618307,
+        "rating": 5.0,
+        "convenience": 2,
+        "security": 4
+    },
+    {
+        "id": 223610,
+        "name": "Бункер 76",
+        "city": "Бургос",
+        "prob_price": 707238258,
+        "rating": 5.0,
+        "convenience": 5,
+        "security": 1
+    },
+    {
+        "id": 241422,
+        "name": "Торговый центр 12",
+        "city": "Аликанте",
+        "prob_price": 458316152,
+        "rating": 5.0,
+        "convenience": 3,
+        "security": 1
+    },
+    {
+        "id": 241422,
+        "name": "Торговый центр 12",
+        "city": "Аликанте",
+        "prob_price": 458316152,
+        "rating": 5.0,
+        "convenience": 3,
+        "security": 4
+    },
+    {
+        "id": 241422,
+        "name": "Торговый центр 12",
+        "city": "Аликанте",
+        "prob_price": 458316152,
+        "rating": 5.0,
+        "convenience": 3,
+        "security": 4
+    },
+    {
+        "id": 241422,
+        "name": "Торговый центр 12",
+        "city": "Аликанте",
+        "prob_price": 458316152,
+        "rating": 5.0,
+        "convenience": 4,
+        "security": 2
+    },
+    {
+        "id": 251209,
+        "name": "Школа 85",
+        "city": "Эль-Пуэрто-де-Санта-Мария",
+        "prob_price": 999932115,
+        "rating": 5.0,
+        "convenience": 1,
+        "security": 4
+    },
+    {
+        "id": 282366,
+        "name": "Бомбоубежище 80",
+        "city": "Ла-Корунья",
+        "prob_price": 560120000,
+        "rating": 5.0,
+        "convenience": 4,
+        "security": 4
+    },
+    {
+        "id": 284505,
+        "name": "Кинотеатр 14",
+        "city": "Бланес",
+        "prob_price": 518967759,
+        "rating": 5.0,
+        "convenience": 2,
+        "security": 5
+    },
+    {
+        "id": 284505,
+        "name": "Кинотеатр 14",
+        "city": "Бланес",
+        "prob_price": 518967759,
+        "rating": 5.0,
+        "convenience": 3,
+        "security": 4
+    },
+    {
+        "id": 284505,
+        "name": "Кинотеатр 14",
+        "city": "Бланес",
+        "prob_price": 518967759,
+        "rating": 5.0,
+        "convenience": 4,
+        "security": 4
+    },
+    {
+        "id": 284505,
+        "name": "Кинотеатр 14",
+        "city": "Бланес",
+        "prob_price": 518967759,
+        "rating": 5.0,
+        "convenience": 5,
+        "security": 2
+    },
+    {
+        "id": 299087,
+        "name": "Автомойка 4",
+        "city": "Куэнка",
+        "prob_price": 70317090,
+        "rating": 5.0,
+        "convenience": 1,
+        "security": 2
+    },
+    {
+        "id": 299087,
+        "name": "Автомойка 4",
+        "city": "Куэнка",
+        "prob_price": 70317090,
+        "rating": 5.0,
+        "convenience": 2,
+        "security": 4
+    },
+    {
+        "id": 299087,
+        "name": "Автомойка 4",
+        "city": "Куэнка",
+        "prob_price": 70317090,
+        "rating": 5.0,
+        "convenience": 5,
+        "security": 5
+    },
+    {
+        "id": 320934,
+        "name": "Теплотрасса 59",
+        "city": "Ла-Корунья",
+        "prob_price": 164834638,
+        "rating": 5.0,
+        "convenience": 4,
+        "security": 2
+    },
+    {
+        "id": 331620,
+        "name": "ТЭЦ 36",
+        "city": "Куэнка",
+        "prob_price": 345697542,
+        "rating": 5.0,
+        "convenience": 3,
+        "security": 1
+    },
+    {
+        "id": 349087,
+        "name": "Сеть 14",
+        "city": "Варшава",
+        "prob_price": 744913651,
+        "rating": 5.0,
+        "convenience": 1,
+        "security": 1
+    },
+    {
+        "id": 349087,
+        "name": "Сеть 14",
+        "city": "Варшава",
+        "prob_price": 744913651,
+        "rating": 5.0,
+        "convenience": 1,
+        "security": 4
+    },
+    {
+        "id": 349087,
+        "name": "Сеть 14",
+        "city": "Варшава",
+        "prob_price": 744913651,
+        "rating": 5.0,
+        "convenience": 1,
+        "security": 5
+    },
+    {
+        "id": 356263,
+        "name": "Плантация 76",
+        "city": "Таллин",
+        "prob_price": 853742872,
+        "rating": 5.0,
+        "convenience": 2,
+        "security": 3
+    },
+    {
+        "id": 380697,
+        "name": "Особняк 2",
+        "city": "Варшава",
+        "prob_price": 363544572,
+        "rating": 5.0,
+        "convenience": 4,
+        "security": 1
+    },
+    {
+        "id": 380697,
+        "name": "Особняк 2",
+        "city": "Варшава",
+        "prob_price": 363544572,
+        "rating": 5.0,
+        "convenience": 5,
+        "security": 1
+    },
+    {
+        "id": 382845,
+        "name": "Аптека 13",
+        "city": "Севилья",
+        "prob_price": 486618222,
+        "rating": 5.0,
+        "convenience": 1,
+        "security": 5
+    },
+    {
+        "id": 382845,
+        "name": "Аптека 13",
+        "city": "Севилья",
+        "prob_price": 486618222,
+        "rating": 5.0,
+        "convenience": 3,
+        "security": 2
+    },
+    {
+        "id": 382845,
+        "name": "Аптека 13",
+        "city": "Севилья",
+        "prob_price": 486618222,
+        "rating": 5.0,
+        "convenience": 5,
+        "security": 2
+    },
+    {
+        "id": 382845,
+        "name": "Аптека 13",
+        "city": "Севилья",
+        "prob_price": 486618222,
+        "rating": 5.0,
+        "convenience": 5,
+        "security": 4
+    },
+    {
+        "id": 400048,
+        "name": "Церковь 67",
+        "city": "Семана",
+        "prob_price": 246751665,
+        "rating": 5.0,
+        "convenience": 5,
+        "security": 5
+    },
+    {
+        "id": 443460,
+        "name": "Гараж 26",
+        "city": "Краков",
+        "prob_price": 644535086,
+        "rating": 5.0,
+        "convenience": 5,
+        "security": 2
+    },
+    {
+        "id": 479209,
+        "name": "Причал 50",
+        "city": "Бланес",
+        "prob_price": 158806377,
+        "rating": 5.0,
+        "convenience": 1,
+        "security": 1
+    },
+    {
+        "id": 491894,
+        "name": "Нефтепровод 72",
+        "city": "Льейда",
+        "prob_price": 214961064,
+        "rating": 5.0,
+        "convenience": 1,
+        "security": 1
+    },
+    {
+        "id": 491894,
+        "name": "Нефтепровод 72",
+        "city": "Льейда",
+        "prob_price": 214961064,
+        "rating": 5.0,
+        "convenience": 1,
+        "security": 4
+    },
+    {
+        "id": 503965,
+        "name": "Переправа 41",
+        "city": "Гранада",
+        "prob_price": 228246611,
+        "rating": 5.0,
+        "convenience": 3,
+        "security": 2
+    },
+    {
+        "id": 503965,
+        "name": "Переправа 41",
+        "city": "Гранада",
+        "prob_price": 228246611,
+        "rating": 5.0,
+        "convenience": 3,
+        "security": 5
+    },
+    {
+        "id": 547476,
+        "name": "Виадук 16",
+        "city": "Алма-Ата",
+        "prob_price": 835185303,
+        "rating": 5.0,
+        "convenience": 3,
+        "security": 1
+    },
+    {
+        "id": 562923,
+        "name": "Завод 94",
+        "city": "Тирана",
+        "prob_price": 738501093,
+        "rating": 5.0,
+        "convenience": 4,
+        "security": 3
+    },
+    {
+        "id": 565008,
+        "name": "Ламарий 30",
+        "city": "Авилес",
+        "prob_price": 503555967,
+        "rating": 5.0,
+        "convenience": 1,
+        "security": 1
+    },
+    {
+        "id": 565008,
+        "name": "Ламарий 30",
+        "city": "Авилес",
+        "prob_price": 503555967,
+        "rating": 5.0,
+        "convenience": 2,
+        "security": 5
+    },
+    {
+        "id": 565008,
+        "name": "Ламарий 30",
+        "city": "Авилес",
+        "prob_price": 503555967,
+        "rating": 5.0,
+        "convenience": 5,
+        "security": 3
+    },
+    {
+        "id": 647703,
+        "name": "Порт 13",
+        "city": "Мерида",
+        "prob_price": 854223483,
+        "rating": 5.0,
+        "convenience": 3,
+        "security": 3
+    },
+    {
+        "id": 648611,
+        "name": "Путепровод 100",
+        "city": "Валенсия",
+        "prob_price": 301636647,
+        "rating": 5.0,
+        "convenience": 4,
+        "security": 2
+    },
+    {
+        "id": 648611,
+        "name": "Путепровод 100",
+        "city": "Валенсия",
+        "prob_price": 301636647,
+        "rating": 5.0,
+        "convenience": 4,
+        "security": 2
+    },
+    {
+        "id": 648611,
+        "name": "Путепровод 100",
+        "city": "Валенсия",
+        "prob_price": 301636647,
+        "rating": 5.0,
+        "convenience": 4,
+        "security": 4
+    },
+    {
+        "id": 648611,
+        "name": "Путепровод 100",
+        "city": "Валенсия",
+        "prob_price": 301636647,
+        "rating": 5.0,
+        "convenience": 5,
+        "security": 3
+    },
+    {
+        "id": 649255,
+        "name": "Крольчатник 100",
+        "city": "Рига",
+        "prob_price": 682749038,
+        "rating": 5.0,
+        "convenience": 1,
+        "security": 4
+    },
+    {
+        "id": 649255,
+        "name": "Крольчатник 100",
+        "city": "Рига",
+        "prob_price": 682749038,
+        "rating": 5.0,
+        "convenience": 2,
+        "security": 3
+    },
+    {
+        "id": 656591,
+        "name": "Сеть 35",
+        "city": "Эль-Пуэрто-де-Санта-Мария",
+        "prob_price": 33410450,
+        "rating": 5.0,
+        "convenience": 2,
+        "security": 1
+    },
+    {
+        "id": 656591,
+        "name": "Сеть 35",
+        "city": "Эль-Пуэрто-де-Санта-Мария",
+        "prob_price": 33410450,
+        "rating": 5.0,
+        "convenience": 3,
+        "security": 2
+    },
+    {
+        "id": 656591,
+        "name": "Сеть 35",
+        "city": "Эль-Пуэрто-де-Санта-Мария",
+        "prob_price": 33410450,
+        "rating": 5.0,
+        "convenience": 5,
+        "security": 1
+    },
+    {
+        "id": 656591,
+        "name": "Сеть 35",
+        "city": "Эль-Пуэрто-де-Санта-Мария",
+        "prob_price": 33410450,
+        "rating": 5.0,
+        "convenience": 5,
+        "security": 1
+    },
+    {
+        "id": 680528,
+        "name": "Кошара 56",
+        "city": "Хихон",
+        "prob_price": 868787371,
+        "rating": 5.0,
+        "convenience": 1,
+        "security": 5
+    },
+    {
+        "id": 680528,
+        "name": "Кошара 56",
+        "city": "Хихон",
+        "prob_price": 868787371,
+        "rating": 5.0,
+        "convenience": 3,
+        "security": 5
+    },
+    {
+        "id": 680528,
+        "name": "Кошара 56",
+        "city": "Хихон",
+        "prob_price": 868787371,
+        "rating": 5.0,
+        "convenience": 5,
+        "security": 3
+    },
+    {
+        "id": 702058,
+        "name": "Кладбище 25",
+        "city": "Санкт-Петербург",
+        "prob_price": 222516543,
+        "rating": 5.0,
+        "convenience": 2,
+        "security": 3
+    },
+    {
+        "id": 702058,
+        "name": "Кладбище 25",
+        "city": "Санкт-Петербург",
+        "prob_price": 222516543,
+        "rating": 5.0,
+        "convenience": 4,
+        "security": 2
+    },
+    {
+        "id": 702058,
+        "name": "Кладбище 25",
+        "city": "Санкт-Петербург",
+        "prob_price": 222516543,
+        "rating": 5.0,
+        "convenience": 5,
+        "security": 4
+    },
+    {
+        "id": 713353,
+        "name": "Гнездо 30",
+        "city": "Касерес",
+        "prob_price": 550666298,
+        "rating": 5.0,
+        "convenience": 3,
+        "security": 1
+    },
+    {
+        "id": 749436,
+        "name": "Лестница 55",
+        "city": "Виго",
+        "prob_price": 176227522,
+        "rating": 5.0,
+        "convenience": 5,
+        "security": 5
+    },
+    {
+        "id": 783226,
+        "name": "Крольчатник 3",
+        "city": "Овьедо",
+        "prob_price": 281078981,
+        "rating": 5.0,
+        "convenience": 1,
+        "security": 4
+    },
+    {
+        "id": 783226,
+        "name": "Крольчатник 3",
+        "city": "Овьедо",
+        "prob_price": 281078981,
+        "rating": 5.0,
+        "convenience": 3,
+        "security": 5
+    },
+    {
+        "id": 784911,
+        "name": " Вилла 31",
+        "city": "Сараево",
+        "prob_price": 697585395,
+        "rating": 5.0,
+        "convenience": 1,
+        "security": 5
+    },
+    {
+        "id": 784911,
+        "name": " Вилла 31",
+        "city": "Сараево",
+        "prob_price": 697585395,
+        "rating": 5.0,
+        "convenience": 2,
+        "security": 3
+    },
+    {
+        "id": 789524,
+        "name": "Парк 1",
+        "city": "Авилес",
+        "prob_price": 678760498,
+        "rating": 5.0,
+        "convenience": 4,
+        "security": 4
+    },
+    {
+        "id": 799118,
+        "name": "Университет 49",
+        "city": "Вроцлав",
+        "prob_price": 597711263,
+        "rating": 5.0,
+        "convenience": 1,
+        "security": 3
+    },
+    {
+        "id": 801060,
+        "name": "Университет 13",
+        "city": "Сантьяго-де-Компостела",
+        "prob_price": 268185133,
+        "rating": 5.0,
+        "convenience": 3,
+        "security": 4
+    },
+    {
+        "id": 811211,
+        "name": "Башня 99",
+        "city": "Аликанте",
+        "prob_price": 762466055,
+        "rating": 5.0,
+        "convenience": 1,
+        "security": 4
+    },
+    {
+        "id": 811211,
+        "name": "Башня 99",
+        "city": "Аликанте",
+        "prob_price": 762466055,
+        "rating": 5.0,
+        "convenience": 3,
+        "security": 5
+    },
+    {
+        "id": 816359,
+        "name": "Кладбище 68",
+        "city": "Куэнка",
+        "prob_price": 275625959,
+        "rating": 5.0,
+        "convenience": 2,
+        "security": 2
+    },
+    {
+        "id": 816359,
+        "name": "Кладбище 68",
+        "city": "Куэнка",
+        "prob_price": 275625959,
+        "rating": 5.0,
+        "convenience": 2,
+        "security": 3
+    },
+    {
+        "id": 816359,
+        "name": "Кладбище 68",
+        "city": "Куэнка",
+        "prob_price": 275625959,
+        "rating": 5.0,
+        "convenience": 4,
+        "security": 3
+    },
+    {
+        "id": 836590,
+        "name": "Театр 35",
+        "city": "Прага",
+        "prob_price": 869518352,
+        "rating": 5.0,
+        "convenience": 1,
+        "security": 2
+    },
+    {
+        "id": 836590,
+        "name": "Театр 35",
+        "city": "Прага",
+        "prob_price": 869518352,
+        "rating": 5.0,
+        "convenience": 1,
+        "security": 4
+    },
+    {
+        "id": 844615,
+        "name": "Кошара 64",
+        "city": "Астана",
+        "prob_price": 548752393,
+        "rating": 5.0,
+        "convenience": 3,
+        "security": 1
+    },
+    {
+        "id": 896317,
+        "name": "Нора 47",
+        "city": "Валенсия",
+        "prob_price": 118227352,
+        "rating": 5.0,
+        "convenience": 1,
+        "security": 5
+    },
+    {
+        "id": 904413,
+        "name": "Особняк 8",
+        "city": "Мадрид",
+        "prob_price": 584867860,
+        "rating": 5.0,
+        "convenience": 3,
+        "security": 4
+    },
+    {
+        "id": 907245,
+        "name": "Автомойка 12",
+        "city": "Алькала-де-Энарес",
+        "prob_price": 823473395,
+        "rating": 5.0,
+        "convenience": 2,
+        "security": 5
+    },
+    {
+        "id": 907245,
+        "name": "Автомойка 12",
+        "city": "Алькала-де-Энарес",
+        "prob_price": 823473395,
+        "rating": 5.0,
+        "convenience": 4,
+        "security": 5
+    },
+    {
+        "id": 915027,
+        "name": "Кошара 92",
+        "city": "Душанбе",
+        "prob_price": 801622128,
+        "rating": 5.0,
+        "convenience": 3,
+        "security": 5
+    },
+    {
+        "id": 915027,
+        "name": "Кошара 92",
+        "city": "Душанбе",
+        "prob_price": 801622128,
+        "rating": 5.0,
+        "convenience": 4,
+        "security": 3
+    },
+    {
+        "id": 915027,
+        "name": "Кошара 92",
+        "city": "Душанбе",
+        "prob_price": 801622128,
+        "rating": 5.0,
+        "convenience": 5,
+        "security": 1
+    },
+    {
+        "id": 915027,
+        "name": "Кошара 92",
+        "city": "Душанбе",
+        "prob_price": 801622128,
+        "rating": 5.0,
+        "convenience": 5,
+        "security": 3
+    },
+    {
+        "id": 112697,
+        "name": "Церковь 67",
+        "city": "Барселона",
+        "prob_price": 866147881,
+        "rating": 4.9,
+        "convenience": 2,
+        "security": 4
+    },
+    {
+        "id": 117227,
+        "name": "Плантация 22",
+        "city": "Варшава",
+        "prob_price": 987591401,
+        "rating": 4.9,
+        "convenience": 1,
+        "security": 1
+    },
+    {
+        "id": 117227,
+        "name": "Плантация 22",
+        "city": "Варшава",
+        "prob_price": 987591401,
+        "rating": 4.9,
+        "convenience": 3,
+        "security": 2
+    },
+    {
+        "id": 121847,
+        "name": "Склад 50",
+        "city": "Махадаонда",
+        "prob_price": 137887303,
+        "rating": 4.9,
+        "convenience": 4,
+        "security": 5
+    },
+    {
+        "id": 121847,
+        "name": "Склад 50",
+        "city": "Махадаонда",
+        "prob_price": 137887303,
+        "rating": 4.9,
+        "convenience": 5,
+        "security": 5
+    },
+    {
+        "id": 142765,
+        "name": "Причал 90",
+        "city": "Сараево",
+        "prob_price": 739998334,
+        "rating": 4.9,
+        "convenience": 5,
+        "security": 1
+    },
+    {
+        "id": 178323,
+        "name": "Йодль 80",
+        "city": "Фигерас",
+        "prob_price": 392480650,
+        "rating": 4.9,
+        "convenience": 1,
+        "security": 1
+    },
+    {
+        "id": 179267,
+        "name": "Йодль 4",
+        "city": "Сараево",
+        "prob_price": 378984879,
+        "rating": 4.9,
+        "convenience": 1,
+        "security": 5
+    }
+]
